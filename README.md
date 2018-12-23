@@ -1,3 +1,5 @@
 # Appetite-iOS-IB
 
-Helper to create views for iOS programmatically
+A Recipe Manager for iOS.
+
+
